@@ -1,0 +1,6 @@
+devid=alexford
+devtitle=Alex Ford
+gameid=bad-lander-prototype
+gametitle=Lander Prototype
+version=0.3
+icon=sprites/lander.png
